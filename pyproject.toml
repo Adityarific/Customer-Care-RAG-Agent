@@ -14,5 +14,6 @@ dependencies = [
     "langchain[aws]>=1.1.0",
     "langgraph>=1.0.4",
     "langgraph-checkpoint-aws>=1.0.1",
+    "pypdf>=6.19.0",
     "sentence-transformers>=5.1.2",
 ]
